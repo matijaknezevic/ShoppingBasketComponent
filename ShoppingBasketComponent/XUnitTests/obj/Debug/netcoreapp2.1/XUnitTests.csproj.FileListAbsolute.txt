@@ -1,0 +1,17 @@
+C:\Users\Matija\source\repos\ShoppingBasketComponent\XUnitTests\obj\Debug\netcoreapp2.1\XUnitTests.csproj.CoreCompileInputs.cache
+C:\Users\Matija\source\repos\ShoppingBasketComponent\XUnitTests\obj\Debug\netcoreapp2.1\XUnitTests.AssemblyInfoInputs.cache
+C:\Users\Matija\source\repos\ShoppingBasketComponent\XUnitTests\obj\Debug\netcoreapp2.1\XUnitTests.AssemblyInfo.cs
+C:\Users\Matija\source\repos\ShoppingBasketComponent\XUnitTests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Matija\source\repos\ShoppingBasketComponent\XUnitTests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Matija\source\repos\ShoppingBasketComponent\XUnitTests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Matija\source\repos\ShoppingBasketComponent\XUnitTests\bin\Debug\netcoreapp2.1\XUnitTests.deps.json
+C:\Users\Matija\source\repos\ShoppingBasketComponent\XUnitTests\bin\Debug\netcoreapp2.1\XUnitTests.runtimeconfig.json
+C:\Users\Matija\source\repos\ShoppingBasketComponent\XUnitTests\bin\Debug\netcoreapp2.1\XUnitTests.runtimeconfig.dev.json
+C:\Users\Matija\source\repos\ShoppingBasketComponent\XUnitTests\bin\Debug\netcoreapp2.1\XUnitTests.dll
+C:\Users\Matija\source\repos\ShoppingBasketComponent\XUnitTests\bin\Debug\netcoreapp2.1\XUnitTests.pdb
+C:\Users\Matija\source\repos\ShoppingBasketComponent\XUnitTests\bin\Debug\netcoreapp2.1\ShoppingBasketComponent.dll
+C:\Users\Matija\source\repos\ShoppingBasketComponent\XUnitTests\bin\Debug\netcoreapp2.1\ShoppingBasketComponent.pdb
+C:\Users\Matija\source\repos\ShoppingBasketComponent\XUnitTests\obj\Debug\netcoreapp2.1\XUnitTests.csproj.CopyComplete
+C:\Users\Matija\source\repos\ShoppingBasketComponent\XUnitTests\obj\Debug\netcoreapp2.1\XUnitTests.dll
+C:\Users\Matija\source\repos\ShoppingBasketComponent\XUnitTests\obj\Debug\netcoreapp2.1\XUnitTests.pdb
+C:\Users\Matija\source\repos\ShoppingBasketComponent\XUnitTests\obj\Debug\netcoreapp2.1\XUnitTests.csprojAssemblyReference.cache
